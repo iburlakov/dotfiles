@@ -8,4 +8,5 @@
 !.gitconfig
 !.config/nvim/**
 !.gitignore
+!README.md
 
