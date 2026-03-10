@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+# Then allowlist what you want
+!.zshrc
+!.zshpro
+!.zshenv
+!.zshprofile
+!.gitconfig
+!.config/nvim/**
+!.gitignore
+
